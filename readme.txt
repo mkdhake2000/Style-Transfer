@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 ReadMe
 
 1. style_transfer folder is shared that contains all the modules and datasets used for the assignment.
